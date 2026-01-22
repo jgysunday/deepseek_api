@@ -225,8 +225,8 @@ A: 支持Windows、macOS和Linux系统。
 ## 📁 项目结构
 
 ```
-deepseek-multi-role-tool/
-├── main.py                    # 主程序入口
+deepseek_api/
+├── deepseek_api.py                    # 主程序入口
 ├── global_roles.json         # 全局角色配置文件
 ├── multi_role_config_*.json  # 多角色协同配置
 ├── api_logs/                 # API调用日志目录
