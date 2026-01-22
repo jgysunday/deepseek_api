@@ -3,6 +3,12 @@
 ## 快速体验
    已打包的程序
    链接: https://pan.baidu.com/s/1w5zCsn5grzktO_nZmJQvLw?pwd=tqgv 提取码: tqgv 
+### 单角色调教
+   ![单角色对话](<img width="2099" height="1424" alt="single_role" src="https://github.com/user-attachments/assets/24ad66cb-3278-46d3-9bac-ce19c553fd85" />
+.png)
+### 多角色协同
+   ![多角色协同]<img width="2099" height="1424" alt="mutil_roles" src="https://github.com/user-attachments/assets/7dd12ab0-7a17-4f54-a726-05e906b9b5cb" />
+
 
 ## 📋 功能特性
 
