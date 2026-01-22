@@ -1,5 +1,5 @@
 # deepseek_api
-一个基于Python tkinter的DeepSeek API调用工具，支持多角色协同对话、标签页管理和流式响应。
+一个基于Python tkinter的DeepSeek API调用工具，支持多角色协同对话、标签页管理和流式响应。它提供的功能足够基础，所以它的作用也很广泛，只要你想得到。非常适合调试角色提示词。
 ## 📋 功能特性
 
 ### 核心功能
