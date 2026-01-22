@@ -37,7 +37,7 @@
 ### 1. 克隆或下载项目
 ```bash
 git clone <仓库地址>
-cd deepseek-multi-role-tool
+cd deepseek_api
 ```
 
 ### 2. 安装依赖
@@ -60,7 +60,7 @@ pip install requests
 
 ### 启动程序
 ```bash
-python main.py
+python     deepseek_api.py
 ```
 
 ### 界面布局
